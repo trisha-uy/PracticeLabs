@@ -4,7 +4,7 @@ This is a repository for practice lab activities, completed by Uy, Trisha Dennis
 
 Form Validation:
 - form.html
-- formValidation.js
+- FormValidation.js
 
 On-event:
 - gallery.html
